@@ -1,0 +1,57 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://demo.adorethemes.com/blogic-pro
+Data file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/14/2022/07/adoreblogpro.WordPress.2022-07-05.xml
+Widget file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/14/2022/07/demo.adorethemes.com-adore-blog-pro-widgets.wie
+Customizer file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/14/2022/07/adore-blog-pro-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Search - No Title - Imported
+
+main-content-wrapper-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+adore_blog_pro_author_info_widget - About Us - Site does not support widget
+adore_blog_pro_favourite_posts_widget - Favourite Posts - Site does not support widget
+adore_blog_pro_sliders_widget - Post Slider - Site does not support widget
+adore_blog_pro_popular_posts_widget - Popular Posts - Site does not support widget
+
+Footer Widget Area 1 : 
+
+Text - Adore Blog - Imported
+adore_blog_pro_social_link - No Title - Site does not support widget
+
+Footer Widget Area 2 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget Area 3 : 
+
+Navigation Menu - Trending Posts - Imported
+
+Footer Widget Area 4 : 
+
+Gallery - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.

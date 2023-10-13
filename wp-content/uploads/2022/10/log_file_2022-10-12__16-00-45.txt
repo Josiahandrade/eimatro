@@ -1,0 +1,47 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://demo.adorethemes.com/blog-talk-pro
+Data file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/31/2022/10/content.xml
+Widget file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/31/2022/10/widgets.wie
+Customizer file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/31/2022/10/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+cool_blog_pro_author_info_widget - About Me - Site does not support widget
+cool_blog_pro_grid_posts_widget - Grid Posts - Site does not support widget
+cool_blog_pro_featured_posts_widget - Featured Posts - Site does not support widget
+
+Footer Widget Area 1 : 
+
+Text - Blogic Pro - Imported
+Search - No Title - Imported
+
+Footer Widget Area 2 : 
+
+cool_blog_pro_featured_posts_widget - Featured Posts - Site does not support widget
+
+Footer Widget Area 3 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget Area 4 : 
+
+Archives - No Title - Imported
+cool_blog_pro_social_widget - Keep in touch - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---ocdi/after_import---
+

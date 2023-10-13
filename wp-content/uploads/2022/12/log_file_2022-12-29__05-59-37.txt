@@ -1,0 +1,45 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://demo.adorethemes.com/web-blog-pro
+Data file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/42/2022/12/blogcenterpro.WordPress.2022-12-29.xml
+Widget file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/42/2022/12/demo.adorethemes.com-blog-center-pro-widgets.wie
+Customizer file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/42/2022/12/blog-center-pro-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+blog_center_pro_author_info_widget - About Myself - Site does not support widget
+blog_center_pro_grid_posts_widget - Popular Posts - Site does not support widget
+blog_center_pro_featured_posts_widget - Featured Posts - Site does not support widget
+blog_center_pro_social_widget - Follow Us On - Site does not support widget
+
+Footer Widget Area 1 : 
+
+Text - Blog Center Pro - Imported
+Search - No Title - Imported
+
+Footer Widget Area 2 : 
+
+blog_center_pro_featured_posts_widget - Featured Posts - Site does not support widget
+
+Footer Widget Area 3 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget Area 4 : 
+
+Archives - No Title - Imported
+blog_center_pro_social_widget - Follow Us On - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.

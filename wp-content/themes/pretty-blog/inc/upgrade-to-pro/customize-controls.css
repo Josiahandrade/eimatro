@@ -1,0 +1,24 @@
+#customize-controls .control-section-pretty-blog .accordion-section-title:hover,
+#customize-controls .control-section-pretty-blog .accordion-section-title:focus {
+	background-color: #000000;
+	color: #fff;
+}
+
+.control-section-pretty-blog .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #ff4f81;
+	border-color: #ff4f81;
+	color: #fff;
+}
+
+.rtl .control-section-pretty-blog .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-pretty-blog h3.accordion-section-title {
+    background-color: #000000;
+    color: #fff;
+}

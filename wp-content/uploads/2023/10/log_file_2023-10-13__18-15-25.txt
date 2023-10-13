@@ -1,0 +1,64 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/eimatro
+Data file = C:\xampp\htdocs\eimatro/wp-content/uploads/2023/10/content.xml
+Widget file = C:\xampp\htdocs\eimatro/wp-content/uploads/2023/10/widgets.wie
+Customizer file = C:\xampp\htdocs\eimatro/wp-content/uploads/2023/10/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widget Area 1 : 
+
+Text - Recent Blog - Imported
+Adore Widget: Social Widget - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Adore Widget: Featured Posts Widget - Featured Posts - Imported
+
+Footer Widget Area 3 : 
+
+Adore Widget: Featured Posts Widget - Popular Posts - Imported
+
+Footer Widget Area 4 : 
+
+Adore Widget: Featured Posts Widget - Random Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,44 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://demo.adorethemes.com/cool-blog-pro
+Data file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/21/2022/08/content.xml
+Widget file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/21/2022/08/widgets.wie
+Customizer file = /home/adorethe/demo.adorethemes.com/wp-content/uploads/sites/21/2022/08/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+blogic_pro_author_info_widget - About Me - Site does not support widget
+blogic_pro_grid_posts_widget - Popular Posts - Site does not support widget
+blogic_pro_featured_posts_widget - Featured Posts - Site does not support widget
+
+Footer Widget Area 1 : 
+
+Text - Blogic Pro - Imported
+Search - No Title - Imported
+
+Footer Widget Area 2 : 
+
+blogic_pro_featured_posts_widget - Featured Posts - Site does not support widget
+
+Footer Widget Area 3 : 
+
+Recent Posts - Recent Posts - Imported
+
+Footer Widget Area 4 : 
+
+Archives - No Title - Imported
+blogic_pro_social_widget - Keep in touch - Site does not support widget
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.

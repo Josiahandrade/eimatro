@@ -1,0 +1,4 @@
+li#accordion-section-recent_blog_banner_section,
+li#accordion-section-recent-blog {
+	display: none !important;
+}
